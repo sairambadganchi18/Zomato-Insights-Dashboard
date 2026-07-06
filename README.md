@@ -89,3 +89,4 @@ Data Visualization
 Analytical Thinking
 
 📸 Dashboard Snapshot
+https://github.com/sairambadganchi18/Zomato-Insights-Dashboard/blob/main/Zomato.PNG.png
